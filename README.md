@@ -23,7 +23,7 @@ python main.py --mode camera --camera 1   # 웹캠
 python main.py --mode sim                 # 시뮬레이션
 ```
 
-조작키, 실행 옵션 등 자세한 내용은 각 폴더의 README를 참고하세요.
+조작키, 실행 옵션 등 자세한 내용은 각 폴더의 README를 참고.
 
 ## 개발 환경
 
